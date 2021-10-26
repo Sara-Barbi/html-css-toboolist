@@ -16,11 +16,24 @@ main{
     margin-top: 4%;
 }
 .spunta{
-    width: 10px;
+    
     color:green;
     border-style: solid;
     border-color: green;
-    border-radius: 100%;
-    border-width: 1px;
-    text-align: center;
+    border-radius: 50%;
+    border-width: 1px; 
+    padding:1px,3px ;  
+    margin-right: 6px;
+    margin-left: 4px;
+    font-size: 10px;
+}
+.tendine{
+    margin-top: 25px;
+    margin-left: 35px;
+    
+    ;
+}
+.dafare{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
