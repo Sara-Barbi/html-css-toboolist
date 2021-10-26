@@ -1,10 +1,14 @@
 html{
     background-color: #f5f5f5;
+    font-family: Roboto;
 }
 .title{
     display: inline-block;
     vertical-align: middle;
+    font-family: Roboto;
+
 }
+
 header{
     height: 90px ;
     background-color: white;
@@ -14,6 +18,19 @@ main{
     width: 600px;
     margin: auto;
     margin-top: 4%;
+    color: rgb(82, 81, 81);
+    border-radius: 7px;
+}
+.spazio1{
+    padding-left: 43px;
+    padding-top: 15px ;
+}
+hr{
+    border-color: #f5f5f5;
+    color: #f5f5f5;
+    background-color: #f5f5f5;
+    border: none;
+    height: 1px;
 }
 .spunta{
     height: 10px;
@@ -47,24 +64,19 @@ line-height: 10px;
 }
 
 .tendine{
-    margin-top: 25px;
-    margin-left: 35px;
-    
-    
+    margin-top: 25px;   
 }
 .dafare{
     margin-top: 15px;
     margin-bottom: 15px;
 }
-.tendine1{
-    margin-right: 0px;
-}
+
 .editorial{
     border-style: solid;
     border-width: 1px;
     border-color: rgb(48, 185, 226);
     border-radius: 12px;
-    font-size: 12px;
+    font-size: 11px;
     padding: 4px 6px;
     background-color: rgb(48, 185, 226);
     color: white;
@@ -75,7 +87,7 @@ line-height: 10px;
     border-width: 1px;
     border-color: rgb(146, 48, 226);
     border-radius: 12px;
-    font-size: 12px;
+    font-size: 11px;
     padding: 4px 6px;
     background-color: rgb(146, 48, 226);
     color: white;
@@ -86,7 +98,7 @@ line-height: 10px;
     border-width: 1px;
     border-color: rgb(48, 226, 187);
     border-radius: 12px;
-    font-size: 12px;
+    font-size: 11px;
     padding: 4px 6px;
     background-color: rgb(48, 226, 187);
     color: white;
@@ -97,7 +109,7 @@ line-height: 10px;
     border-width: 1px;
     border-color: rgb(209, 98, 8);
     border-radius: 12px;
-    font-size: 12px;
+    font-size: 11px;
     padding: 4px 6px;
     background-color: rgb(209, 98, 8);
     color: white;
@@ -108,7 +120,7 @@ line-height: 10px;
 border-width: 1px;
 border-color: rgb(197, 22, 124);
 border-radius: 12px;
-font-size: 12px;
+font-size: 11px;
 padding: 4px 6px;
 background-color: rgb(197, 22, 124);
 color: white;
@@ -119,7 +131,7 @@ color: white;
     border-width: 1px;
     border-color: rgb(102, 190, 19);
     border-radius: 12px;
-    font-size: 12px;
+    font-size: 11px;
     padding: 4px 6px;
     background-color: rgb(102, 190, 19);
     color: white; 
@@ -132,11 +144,13 @@ color: white;
     padding: 5px 7px; 
 }
 
-}
-#secondobottone{
-    
-    
-    
-    
-    
+.button{
+    background-color:rgb(255, 255, 255); 
+    color: rgb(158, 156, 156); 
+    border-radius: 5px;  
+    padding: 5px 7px; 
+    border-color: rgb(209, 208, 208);
+    border-width: 1px;
+    height: 27px;
+
 }
