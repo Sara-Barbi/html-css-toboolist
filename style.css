@@ -65,16 +65,62 @@ line-height: 10px;
     border-color: rgb(48, 185, 226);
     border-radius: 12px;
     font-size: 12px;
-    padding: 6px;
+    padding: 4px 6px;
     background-color: rgb(48, 185, 226);
+    color: white;
 
 }
 .Q1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(146, 48, 226);
+    border-radius: 12px;
+    font-size: 12px;
+    padding: 4px 6px;
+    background-color: rgb(146, 48, 226);
+    color: white;
 
 }
 .rec{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(48, 226, 187);
+    border-radius: 12px;
+    font-size: 12px;
+    padding: 4px 6px;
+    background-color: rgb(48, 226, 187);
+    color: white;
 
 }
 .mobile{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(209, 98, 8);
+    border-radius: 12px;
+    font-size: 12px;
+    padding: 4px 6px;
+    background-color: rgb(209, 98, 8);
+    color: white;
 
+}
+.web{
+    border-style: solid;
+border-width: 1px;
+border-color: rgb(197, 22, 124);
+border-radius: 12px;
+font-size: 12px;
+padding: 4px 6px;
+background-color: rgb(197, 22, 124);
+color: white;
+
+}
+.sales{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(102, 190, 19);
+    border-radius: 12px;
+    font-size: 12px;
+    padding: 4px 6px;
+    background-color: rgb(102, 190, 19);
+    color: white; 
 }
